@@ -23,7 +23,7 @@ A Machine Learning REST API built with **FastAPI** that predicts whether a loan 
 ## 📂 Project Structure
 
 ```
-simple_Loan_prediction_system_using_FastApi/
+Loan_Approval_Prediction_API_Built_with_FastApi/
 │── app_api.py
 │── model_training.py
 │── data.csv
